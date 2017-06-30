@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="Add">Add</string>
+    <string name="add_item">enregistrer un element...</string>
+    <string name="Add_item">Add a new item</string>
+    <string name="replace_item">your modification here...</string>
+    <string name="Save">Save</string>
+</resources>
